@@ -1,6 +1,5 @@
 package life.majiang.community.community.provider;
 
-
 import com.alibaba.fastjson.JSON;
 import life.majiang.community.community.dto.AccessTokenDTO;
 import life.majiang.community.community.dto.GithubUser;
@@ -53,8 +52,5 @@ public class GithubProvider {
         return null;
 
     }
-
-
-
 
 }
